@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Luismi!
 
-<!--
-**Luismiguelrambla/luismiguelrambla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+- 🔭 I’m currently working as Frontend Developer
+- 📦 Full Stack Developer background
+- 🌱 I’m currently learning Angular
+- ❤️ React + Typescript lover
+- 🎧 Spotify is a must have
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
-Here are some ideas to get you started:
+### Keep in touch:
+- ✉️ luismiguelrambla@gmail.com
+- 💻 [LinkedIn](https://www.linkedin.com/in/luismiguelrambla)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+### ⚠️ Github / Portfolio WIP ⚠️
